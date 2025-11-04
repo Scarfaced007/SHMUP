@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScene.unity
+    guid: 929c73beda02da84ead91f54e2d85823
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 2a6cb072dec21f04084aa542b0bb4206
+  - enabled: 1
+    path: Assets/Scenes/GamePlayScene.unity
+    guid: 7a97158794858884da82b709b34bbb56
+  - enabled: 1
+    path: Assets/Scenes/Menus/AudioOptionsMenu.unity
+    guid: d175848c5b72e2d45b547c25de649d14
+  - enabled: 1
+    path: Assets/Scenes/Menus/ControlOptionsMenu.unity
+    guid: a2bfa4aa00619294694b012dd57ca3cb
+  - enabled: 1
+    path: Assets/Scenes/Menus/CreditsMenu.unity
+    guid: 06c6670d4d91c164e980907b3edda2dc
+  - enabled: 1
+    path: Assets/Scenes/Menus/GraphicsOptionsMenu.unity
+    guid: bff3ffd25105d3247b115f8b41add666
+  - enabled: 1
+    path: Assets/Scenes/Menus/MainMenu.unity
+    guid: 5ef8310e1c1bec64789e11e45f24a9eb
+  - enabled: 1
+    path: Assets/Scenes/Menus/MedalsMenu.unity
+    guid: c45cfb3d343b1ad41b2a119942e1dba2
+  - enabled: 1
+    path: Assets/Scenes/Menus/OptionsMenu.unity
+    guid: 4ec98a20e6637a4458db573b1c2b4203
+  - enabled: 1
+    path: Assets/Scenes/Menus/PauseMenu.unity
+    guid: 7658ce4c00959fa4ca23b92e98014fcd
+  - enabled: 1
+    path: Assets/Scenes/Menus/PlayMenu.unity
+    guid: 0f218eb93d0e8e444a9c80be22d9383b
+  - enabled: 1
+    path: Assets/Scenes/Menus/PracticeArenaMenu.unity
+    guid: b476979c3ec779f4a80d72db932090a4
+  - enabled: 1
+    path: Assets/Scenes/Menus/PracticeMenu.unity
+    guid: 9e87d4b212ae8664594e932134b12e88
+  - enabled: 1
+    path: Assets/Scenes/Menus/PracticeStageMenu.unity
+    guid: 32b22c5596b17f842be6ef3e2716a928
+  - enabled: 1
+    path: Assets/Scenes/Menus/ReplaysMenu.unity
+    guid: 013372c11e0859c4d9ccb879a1d4506b
+  - enabled: 1
+    path: Assets/Scenes/Menus/ScoresMenu.unity
+    guid: db635ed633ccb8d4d86f0d39565c609c
+  - enabled: 1
+    path: Assets/Scenes/Menus/TitleScreenMenu.unity
+    guid: dd488d6570460be4f92b0b340a9fc86b
+  - enabled: 1
+    path: Assets/Scenes/Menus/YesNoMenu.unity
+    guid: c3bd1500f1c8f3843a3dd8a0b67e6293
+  m_configObjects: {}
