@@ -1,2 +1,1 @@
-# SHMUP
-
+changed readme
